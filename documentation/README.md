@@ -1,5 +1,5 @@
 
-![Cover photo](./images/all-main.jpg) 
+![Cover photo](./Images/all-main.jpg) 
 
 #<a href="../README.md">Community-Fit-Family</a>
 
